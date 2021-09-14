@@ -1,0 +1,3 @@
+ // Image.asset('assets/images/htmlcss.png', fit: BoxFit.cover, width: 150, height: 150,),
+ // Image.asset('assets/images/flutter.png', fit: BoxFit.cover, width: 150, height: 150,),
+ // Image.asset('assets/images/bootstrap.png', fit: BoxFit.cover, width: 150, height: 150,),
